@@ -19,3 +19,7 @@ Just an helper to set the current menu active
   </a>
 </li>
 ```
+
+# How to contribute ?
+
+Juste clone this repo, do your edit, make a pull request
