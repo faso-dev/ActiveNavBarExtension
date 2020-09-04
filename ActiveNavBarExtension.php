@@ -6,7 +6,7 @@
  * @Author <faso-dev> jeromeonadja28@gmail.com
  */
 
-namespace App\Twig;
+namespace App\Twig\ActiveNavBarExtension;
 
 use Symfony\Component\HttpFoundation\RequestStack;
 use Twig\Extension\AbstractExtension;
