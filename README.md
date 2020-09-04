@@ -7,6 +7,8 @@ Just an helper to set the current menu active
   
 # Use cases
 
+Juste clone this repo in your Twig dir
+
 ```twig
 <li class="{{ active_route('odds_realisation') }}">
   <a href="{{ path('odds_realisation') }}">
