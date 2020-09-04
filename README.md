@@ -7,7 +7,8 @@ Just an helper to set the current menu active
   
 # Use cases
 
-Juste clone this repo in your Twig dir
+Juste clone this repo in your src/Twig dir and remove the README.md file.
+After doing this, the extension is automatically activated and you can start using it as follows:
 
 ```twig
 <li class="{{ active_route('odds_realisation') }}">
